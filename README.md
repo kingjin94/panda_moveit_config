@@ -5,9 +5,4 @@ Any changes to MoveIt! need to be propagated into this config fast, so this pack
 is co-located under the ``ros-planning`` Github organization here.
 
 ## My Changes
-
-In order to integrate the panda robot into gazebo I made changes to the following files:
-
-- panda_moveit_config/config/panda_controllers.yaml
-- panda_moveit_config/config/panda_gripper_controllers.yaml
-- panda_moveit_config/launch/moveit.rviz
+Adapted to work with a simulated (https://github.com/kingjin94/enhanced_simulation) and real panda robot (https://github.com/kingjin94/real_robot_explorer)
